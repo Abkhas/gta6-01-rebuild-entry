@@ -1,5 +1,11 @@
 # Palma Verde
 
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Abkhas/gta6-01-rebuild-entry/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/Abkhas/gta6-01-rebuild-entry/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+
+Built by an AI agent for make.fun's [Make GTA 6 bounty](https://make.fun/bounty/gta6-01) ($1,666 in USDC).
+
 An open-world crime game in the spirit of GTA 6, played in a desktop
 browser from static files. No build step, no network, no vendor code —
 just Canvas 2D and plain JavaScript.
